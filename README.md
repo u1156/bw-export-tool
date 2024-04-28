@@ -1,7 +1,7 @@
 # bw-export-tool
 
 While Bitwarden does offer built-in export functionality, it currently does not provide a quick solution to export all your attachments.
-This script will help you export your passwords and attachments from your Bitwarden vault and store them in a compressed and GPG-encrypted ZIP file. The script requires **Bitwarden CLI**, **jq** and **GPG** to be installed on your system.
+This script will help you export your passwords and attachments from your Bitwarden vault and store them in a compressed and GPG-encrypted ZIP file.
 
 ## Requirements
 
